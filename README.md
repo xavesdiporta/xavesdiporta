@@ -14,4 +14,4 @@
 
 <br>
 <h2 align="center">Stats</h2>
-<img padding-left = "50%" src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
+<img padding-left = "50px" src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
