@@ -11,9 +11,8 @@
         <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     </p>
 
-<br color = "#fffaff">
-<h2 align = "center"> Stats </h2>
-<p align = "center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight)
-</p>
+<br color = "#fffaff", height = 3px>
+<h2 align="center">Stats</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
+</div>
