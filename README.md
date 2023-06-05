@@ -1,13 +1,4 @@
 
-<style>
-    br {
-        display: block;
-        content: "";
-        margin-top: 10px;
-        border-top: 3px solid #fffaff;
-    }
-</style>
-
 <h2 align = "center"> My Rookie Stack </h2>
     <p align = "center">
         <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,10 +13,5 @@
     </p>
 
 <br>
-<div style="text-align: center;">
-    <h2>Stats</h2>
-    <div style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
-    </div>
-</div>
-
+<h2 align="center">Stats</h2>
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
