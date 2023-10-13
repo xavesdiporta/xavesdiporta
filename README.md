@@ -10,6 +10,8 @@
         <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
         <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
         <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+        [![My Skills](https://skillicons.dev/icons?i=sqlite,redis,nodejs,mysql,express,firebase,&perline=6)](https://skillicons.dev)
+
     </p>
 
 <br>
