@@ -16,6 +16,6 @@
 <br>
 <h2 align="center">Stats</h2>
 <div align="center" style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=T3nco&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3nco&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xavesdiporta&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavesdiporta&layout=compact&theme=tokyonight" />
 </div>
