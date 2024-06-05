@@ -1,14 +1,12 @@
 <div align='center'>
-
-<h1 >Welcome, this is Xavier!</h1>
-<div>
-    <p>FrontEnd and Laravel Programmer, by the way do you know Laravel?</p>
-    <h1>://</h1>
-</div>
+    
+# Welcome, this is Xavier!
+<p>FrontEnd and Laravel Programmer, by the way do you know Laravel?</p>
+<h1>://</h1>
 
 <br>
 
-<h2>Stack</h2>
+## Stack
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,tailwind,laravel,php,js,py" />
@@ -24,6 +22,7 @@
 
 <br>    
 <br>
-<h2>Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=xavesdiporta&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavesdiporta&layout=compact&theme=dracula" />
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=xavesdiporta&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavesdiporta&layout=compact&theme=dracula" />
