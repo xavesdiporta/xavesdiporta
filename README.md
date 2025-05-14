@@ -9,7 +9,7 @@
 ## Stack
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,tailwind,laravel,php,js,py" />
+        <img src="https://skillicons.dev/icons?i=html,htmx,css,bootstrap,tailwind,laravel,php,js,alpine,py" />
     </a>
 </p>
 
